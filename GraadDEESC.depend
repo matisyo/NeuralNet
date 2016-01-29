@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1448342020 source:d:\cplash\graaddeesc\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string>
+	<algorithm>
+	<sstream>
+	<map>
+	<vector>
+	<iomanip>
+
